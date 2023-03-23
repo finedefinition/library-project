@@ -1,4 +1,8 @@
 {
+  "homepage": "https://github.com/finedefinition/library-project",
+  "scripts": {
+    "build": "parcel build src/*.html --public-url /library-project/"
+  },
   "dependencies": {
     "@types/jest": "^29.5.0",
     "@types/node": "^18.15.5",
