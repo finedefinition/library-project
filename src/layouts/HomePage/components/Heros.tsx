@@ -14,7 +14,7 @@ export const Heros = () => {
                                 Whether it is to learn a new skill or grow within one,
                                 we will be able to provide the top content for you!
                             </p>
-                            <a className='btn main-color btn-lg text-white' href='03-frontend/react-library/src/layouts/HomePage#'>Sign up</a>
+                            <a className='btn main-color btn-lg text-white' href='src/layouts/HomePage#'>Sign up</a>
                         </div>
                     </div>
                 </div>
@@ -50,7 +50,7 @@ export const Heros = () => {
                                 Whether it is to learn a new skill or grow within one,
                                 we will be able to provide the top content for you!
                             </p>
-                            <a className='btn main-color btn-lg text-white' href='03-frontend/react-library/src/layouts/HomePage#'>Sign up</a>
+                            <a className='btn main-color btn-lg text-white' href='src/layouts/HomePage#'>Sign up</a>
                         </div>
                     </div>
                     <div className='m-2'>
