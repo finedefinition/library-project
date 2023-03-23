@@ -11,7 +11,7 @@ export const LibraryServices = () => {
                         send our library admin's a personal message!
                     </p>
                     <div className='d-grid gap-2 justify-content-md-start mb-4 mb-lg-3'>
-                        <a className='btn main-color btn-lg text-white' href='#'>
+                        <a className='btn main-color btn-lg text-white' href='03-frontend/react-library/src/layouts/HomePage#'>
                             Sign up
                         </a>
                     </div>
