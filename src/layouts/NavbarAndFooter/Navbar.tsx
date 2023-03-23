@@ -15,15 +15,15 @@ export const Navbar = () => {
                 <div className='collapse navbar-collapse' id='navbarNavDropdown'>
                     <ul className='navbar-nav'>
                         <li className='nav-item'>
-                            <a className='nav-link' href='#'>Home</a>
+                            <a className='nav-link' href='src/layouts/NavbarAndFooter#'>Home</a>
                         </li>
                         <li className='nav-item'>
-                            <a className='nav-link' href='#'>Search Books</a>
+                            <a className='nav-link' href='src/layouts/NavbarAndFooter#'>Search Books</a>
                         </li>
                     </ul>
                     <ul className='navbar-nav ms-auto'>
                         <li className='nav-item m-1'>
-                            <a type='button' className='btn btn-outline-light' href='#'>Sign in</a>
+                            <a type='button' className='btn btn-outline-light' href='src/layouts/NavbarAndFooter#'>Sign in</a>
                         </li>
                     </ul>
                 </div>

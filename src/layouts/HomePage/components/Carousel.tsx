@@ -52,7 +52,7 @@ export const Carousel = () => {
                 </div>
             </div>
             <div className='homepage-carousel-title mt-3'>
-                <a className='btn btn-outline-secondary btn-lg' href='03-frontend/react-library/src/layouts/HomePage#'>View More</a>
+                <a className='btn btn-outline-secondary btn-lg' href='src/layouts/HomePage#'>View More</a>
             </div>
         </div>
     );

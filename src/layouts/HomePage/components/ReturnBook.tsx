@@ -12,7 +12,7 @@ export const ReturnBook = () => {
                 />
                 <h6 className='mt-2'>Book</h6>
                 <p>Luv2Code</p>
-                <a className='btn main-color text-white' href='03-frontend/react-library/src/layouts/HomePage#'>Reserve</a>
+                <a className='btn main-color text-white' href='src/layouts/HomePage#'>Reserve</a>
             </div>
         </div>
     );
