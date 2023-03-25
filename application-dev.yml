@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    url: jdbc:mysql://containers-us-west-181.railway.app:6087/railway
+    username: root
+    password: u6Tfr0lRHj24tzeh49w3
+
+  sql:
+    init:
+      mode: always
