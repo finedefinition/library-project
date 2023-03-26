@@ -1,0 +1,19 @@
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'
+  info:
+    env:
+      enabled: true
+
+info:
+  application:
+    name: gallery
+    description: A gallery of ukrainian painters arts.
+    author: Sergii Bezrukov
+    version: '@project.version@'
+spring:
+  profiles:
+    active: dev
