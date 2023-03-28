@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/library-project/static/css/main.df472e5f.css",
-    "main.js": "/library-project/static/js/main.90750efc.js",
-    "static/media/image-4.jpg": "/library-project/static/media/image-4.3e2078d97fb938c45a1f.jpg",
-    "static/media/image-1.jpg": "/library-project/static/media/image-1.86d0184018dc31bf83dc.jpg",
-    "static/media/image-3.jpg": "/library-project/static/media/image-3.8ac4c6640b4f274c92b5.jpg",
-    "static/media/book-luv2code-1000.png": "/library-project/static/media/book-luv2code-1000.8b0fd6cd7d7fda67040d.png",
-    "static/media/image-2.jpg": "/library-project/static/media/image-2.8bb6b32b528986b15fd0.jpg",
-    "index.html": "/library-project/index.html",
-    "main.df472e5f.css.map": "/library-project/static/css/main.df472e5f.css.map",
-    "main.90750efc.js.map": "/library-project/static/js/main.90750efc.js.map"
+    "main.css": "/static/css/main.ecabe3fb.css",
+    "main.js": "/static/js/main.123a8bdf.js",
+    "static/media/image-4.jpg": "/static/media/image-4.3e2078d97fb938c45a1f.jpg",
+    "static/media/image-1.jpg": "/static/media/image-1.86d0184018dc31bf83dc.jpg",
+    "static/media/image-3.jpg": "/static/media/image-3.8ac4c6640b4f274c92b5.jpg",
+    "static/media/book-luv2code-1000.png": "/static/media/book-luv2code-1000.8b0fd6cd7d7fda67040d.png",
+    "static/media/image-2.jpg": "/static/media/image-2.8bb6b32b528986b15fd0.jpg",
+    "index.html": "/index.html",
+    "main.ecabe3fb.css.map": "/static/css/main.ecabe3fb.css.map",
+    "main.123a8bdf.js.map": "/static/js/main.123a8bdf.js.map"
   },
   "entrypoints": [
-    "static/css/main.df472e5f.css",
-    "static/js/main.90750efc.js"
+    "static/css/main.ecabe3fb.css",
+    "static/js/main.123a8bdf.js"
   ]
 }
